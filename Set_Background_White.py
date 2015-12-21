@@ -23,7 +23,7 @@ for i in range(original_image.size[0]):
 	for j in range(original_image.size[1]):
 		# sum of background pixel's rbg
 		# NOTE: user can CUSTOMIZE this
-		background_color = 200
+		background_color = 600
 		if original_pix[i,j][0]+original_pix[i,j][1]+original_pix[i,j][2]> background_color:
 			# turn the it to white
 			original_pix[i,j] = (255,255,255)
