@@ -16,7 +16,8 @@ This program assumes:
 
 users can customize it for their own purpose:)
 
-###stats_work.py
+### stats_work.py
+
 **WARNING**:
 
 This is the program of EDA(Exploratory Data Analysis) in data from TAOBAO. It **must run with the other data files**.
